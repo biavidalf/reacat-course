@@ -11,3 +11,5 @@ Javascript client-side library for building mordern and reactive user interfaces
 * Declarative, component-focused approach
 * Divide your application into small reusable components, keeping your code maintanable and managable.
 * Allows developers to work in a higher level.
+
+<sub>Javascript exercises: https://www.crocoder.dev/</sub>
